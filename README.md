@@ -1,1 +1,1 @@
-booki-starter-pack
+https://github.com/DiNeTe/OC_projet1_BOOKI/
