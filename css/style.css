@@ -627,7 +627,6 @@ svg {
 }
 
 .accommodation-cards .card {
-    filter: none;
     min-height: auto;
     height: 100%;
 }
@@ -659,10 +658,6 @@ svg {
         margin-right: 0;
         width: 67%;
     }
-
-    .card-title {
-        margin: 0;
-    }
 }
 
 @media (min-width: 767.99px) and (max-width: 1023.98px) {
@@ -688,10 +683,7 @@ svg {
     }
 
     .accommodation-cards .card {
-        background: white;
-        border: 5px;
         box-shadow: 0px 3px 15px 0px #0000001A;
-        filter: none;
     }
 }
 
