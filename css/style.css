@@ -505,7 +505,7 @@ svg {
     }
 }
 
-@media (min-width:768px) and (max-heigth:1024px) {
+@media (min-width:768px) and (max-width:1024px) {
     .filters {
         flex-wrap: wrap;
         height: auto;
